@@ -20,9 +20,10 @@ h1, h2, h3, h4, h5, h6 {
     width: auto; }
   #top-panel td > a {
     background: url("http://digitgaming.com/wp-content/themes/digit/images/digitlogo01.png") 0 0 no-repeat;
+    background-size: 100%;
     display: block;
     width: 130px;
-    height: 40px;
+    height: 60px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
       display: none; }
